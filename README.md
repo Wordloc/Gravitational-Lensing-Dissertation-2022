@@ -14,5 +14,7 @@ If you are a student of the Open University feel free to use my bib config - it'
 
 If you wish to use this work in part, including the figure I created, for non commercial or educational work I'd appreciate a citation - I believe GitHub can be cited as a typical online work.
 
+I also did two conference talks on this topic and the pre requisite physics knowledge required to understand the concepts at Newline 2023 - livestream VODs are available on the Hackerspace Gent YouTube channel, presentation skews slightly less technical & mathematical due to the predominantly astronomy enthusiast audience. (Forgive my awkwardness, it was my first time presenting research to an audience). 
+
 If you wish to contact me for any reason, please email me at contact@wordloc.net.
 
