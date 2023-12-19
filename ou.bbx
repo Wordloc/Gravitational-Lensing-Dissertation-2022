@@ -1,0 +1,14 @@
+\ProvidesFile{ou.bbx}[2022/07/04 v1.0 BibLaTeX bibliography style for OU-style harvard bibs]
+
+\RequireBibliographyStyle{authoryear}
+\ExecuteBibliographyOptions{
+sorting=nyt,
+%pluralothers=true,
+}
+
+\DeclareFieldFormat{doi}{%
+  Available at\addcolon\space
+  \ifhyperref
+    {\url{https://doi.org/#1}}
+    {\nolinkurl{#1}}}
+\endinput
